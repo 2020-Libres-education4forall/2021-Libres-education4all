@@ -7,7 +7,7 @@
 ### Comunicación
 
 * Zoom 
-* Discord 
+* [Discord](https://discord.gg/Zpxg9Y8f)
 
 ### Repositorio  
 
@@ -23,8 +23,7 @@
 
 ### Lenguaje: 
 
-* Javascript 
-* PHP  
+* Javascript  
 
 ### Base de Datos 
 
