@@ -6,8 +6,10 @@
 
 ### Comunicación
 
-* Zoom 
 * [Discord](https://discord.gg/Zpxg9Y8f)
+* [Facebook](https://discord.gg/Zpxg9Y8f)
+* [Telegram](https://www.facebook.com/Education-4-all-EC-105482671578269)
+
 
 ### Gestión del Proyecto
 
