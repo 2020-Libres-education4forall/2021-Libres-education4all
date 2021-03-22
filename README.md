@@ -16,7 +16,7 @@ En el desarrollo de Education4All los fundadores de este proyecto son los que ma
 Si se llegara a infringir alguno de los parámetros estipulados anteriormente, el miembro de la comunidad que haya cometido este error será notificado que debe deshacer lo realizado, y si este persiste en continuar con dicho tema, será automáticamente eliminado de la comunidad sin aviso previo.
 Si alguno de los fundadores del proyecto se retira del mismo, la o las personas que suplantaran sus puestos al mismo nivel de jerarquía serán los miembros de la comunidad que mas hayan aportado a la misma (se dará preferencia a documentadores). Se realizará una votación mediante el canal de comunicación Discord. 
 
-Los equipos que se van a tener son:
+### Roles
 * Fundadores
 * Documentadores
 * Desarrolladores
