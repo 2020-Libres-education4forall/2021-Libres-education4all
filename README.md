@@ -33,6 +33,10 @@ Si alguno de los fundadores del proyecto se retira del mismo, la o las personas 
 
 * GitKraken  
 
+### 
+
+
+
 ### Framework 
 
 * Angular  
@@ -44,6 +48,7 @@ Si alguno de los fundadores del proyecto se retira del mismo, la o las personas 
 ### Base de Datos 
  
 * MongoDB
+
 ### ¿Quieres conocer más sobre el proyecto?
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
