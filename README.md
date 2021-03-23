@@ -7,8 +7,8 @@
 ### Comunicación
 
 * [Discord](https://discord.gg/Zpxg9Y8f)
-* [Facebook](https://discord.gg/Zpxg9Y8f)
-* [Telegram](https://www.facebook.com/Education-4-all-EC-105482671578269)
+* [Facebook](https://www.facebook.com/Education-4-all-EC-105482671578269)
+* [Telegram](https://t.me/education4allre)
 
 
 ### Gestión del Proyecto
