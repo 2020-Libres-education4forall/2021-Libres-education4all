@@ -1,5 +1,22 @@
 ## Education 4 all
 
+Tabla de Contenidos
+=======================
+
+* [Objetivos](#objetivos)
+* [Licencia](#licencia)
+* [Fundadores](#fundadores)
+* [Etiquetas](#etiquetas)
+* [Descripción del Proyecto](#descripción-del-proyecto)
+* [Roles](#roles)
+* [Gestión](#gestión)
+* [Toma de Desiciones](#toma-de-desiciones)
+* [Obtención de Recursos](#obtención-de-recursos)
+* [Utilización de Recursos](#utilización-de-recursos)
+* [Estrategia de Ramas](#estrategia-de-ramas)
+* [Estrategia de Versionamiento](#estrategia-de-versionamiento)
+* [Canales de Comunicación](#canales-de-comunicación)
+
 ### Objetivo
 
 * Crear un foro en donde los miembros de la comunidad estudiantil y profesional puedan encontrar o publicar clases y/o ayuda con ejercicios propuestos para su ayuda mutua en diversos campos del ámbito estudiantil.
