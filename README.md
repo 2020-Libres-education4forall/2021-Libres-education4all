@@ -2,6 +2,7 @@
 
 ## Tabla de contenido
 =========================
+
 * [Objetivos](#objetivos)
 * [Fundadores](#fundadores)
 * [Comunicación](#comunicacion)
