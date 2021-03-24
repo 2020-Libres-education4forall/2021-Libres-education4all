@@ -3,15 +3,15 @@
 ## Tabla de contenido
 =========================
 
-* [Objetivo](#objetivos)
+* [Objetivo](#objetivo)
 * [Fundadores](#fundadores)
 * [Comunicación](#comunicacion)
-* [Gestión del proyecto](#gestión)
+* [Gestión del proyecto](#gestión'del-proyecto)
 * [Roles](#roles)
 * [Etiquetas](#etiquetas)
 * [Obtención de recursos](#obtención-de-recursos)
 * [Utilización de recursos](#utilización-de-recursos)
-* [Estrategia de ramificación](#estrategia-de-ramas)
+* [Estrategia de ramificación](#estrategia-de-ramificacion)
 * [Estrategia de versionamiento](#estrategia-de-versionamiento)
 * [Licencia](#licencia)
 * [Repositorio](#repositorio)
