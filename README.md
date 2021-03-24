@@ -3,7 +3,7 @@
 ## Tabla de contenido
 =========================
 
-* [Objetivos](#objetivos)
+* [Objetivo](#objetivos)
 * [Fundadores](#fundadores)
 * [Comunicación](#comunicacion)
 * [Gestión del proyecto](#gestión)
@@ -93,7 +93,7 @@ En el proyecto de Education4All se utilizará las versiones por npumero mediante
 
 
 ### Framework 
-
+---------
 * Angular  
 
 ### Lenguaje
