@@ -5,7 +5,7 @@
 
 * [Objetivo](#objetivo)
 * [Fundadores](#fundadores)
-* [Comunicación](#comunicacion)
+* [Comunicación](#comunicación)
 * [Gestión del proyecto](#gestión'del-proyecto)
 * [Roles](#roles)
 * [Etiquetas](#etiquetas)
