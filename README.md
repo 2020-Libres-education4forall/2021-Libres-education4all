@@ -47,7 +47,7 @@ Los recursos que se obtengan en el proyecto se repartirá de manera equitativa, 
 
 La estrategia de ramificación que se utilizará para este prouecto será Branch per feature, ya que esta estrategia se basa en una rama por funcionalidad, ya que una vez que se esté seguro de que una funcionalidad está funcionando correctamente esta será integrada a la rama de integración, dicha rama tiene la función de que la rama master nunca esté dañada o tenga fallos, ya que lo que se tiene en la rama master está listo para subor a producción.
 
-<center>https://lh3.googleusercontent.com/-nSaPlB8Bfbc/VmP4jE-8yPI/AAAAAAAAB0w/ofLzyuYYHXc/s400-Ic42/pic2.jpg</center>
+![Branch per Feature](https://lh3.googleusercontent.com/-nSaPlB8Bfbc/VmP4jE-8yPI/AAAAAAAAB0w/ofLzyuYYHXc/s400-Ic42/pic2.jpg)
 
 ### Estrategia de versionamiento
 
