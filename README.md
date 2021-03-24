@@ -63,7 +63,7 @@ Si alguno de los fundadores del proyecto se retira del mismo, la o las personas 
 ### Obtencion de recursos
 ---------
 Para el foro de Education4All se obtendrá recursos de dos maneras diferentes, las cuáles son:
-* Donaciones. - Se recibirá donaciones por parte de las personas que hayan utilizado nuestro foro mediante Bitcoin en el wallet, se aceptará como mínimo de 10 dólares
+* Donaciones. - Se recibirá donaciones por parte de las personas que hayan utilizado nuestro foro mediante Bitcoin, se aceptará como mínimo de 10 dólares
 * Publicidad. - Ya que se trata de un foro, se puede agregar publicidad a la página por lo que se podrá hacer uso de este espacio para poder realizar publicidad por parte de las empresas o personas que lo deseen. El valor se acordará al momento de contactarse con los correos electrónicos de los fundadores del proyecto.
 
 ### Utilización de recursos
