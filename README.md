@@ -1,36 +1,65 @@
 ## Education 4 all
 
-### Objetivo
+## Tabla de contenido
+=========================
+* [Objetivos](#objetivos)
+* [Fundadores](#fundadores)
+* [Comunicación](#comunicacion)
+* [Gestión del proyecto](#gestión)
+* [Roles](#roles)
+* [Etiquetas](#etiquetas)
+* [Obtención de recursos](#obtención-de-recursos)
+* [Utilización de recursos](#utilización-de-recursos)
+* [Estrategia de ramificación](#estrategia-de-ramas)
+* [Estrategia de versionamiento](#estrategia-de-versionamiento)
+* [Licencia](#licencia)
+* [Repositorio](#repositorio)
+* [Framework](#framework)
+* [Lenguaje](#lenguaje)
+* [Base de datos](#base)
 
+ 
+
+
+* [Descripción del proyecto](#gestionProyecto)
+
+
+* [Toma de Desiciones](#toma-de-desiciones)
+
+
+* 
+### Objetivo
+---------
 * Crear un foro en donde los miembros de la comunidad estudiantil y profesional puedan encontrar o publicar clases y/o ayuda con ejercicios propuestos para su ayuda mutua en diversos campos del ámbito estudiantil.
 
 ### Fundadores
-
+---------
 * Andaluz Esteban
 * Paredes Ricardo
 
 ### Comunicación
-
+---------
 * [Discord](https://discord.gg/Zpxg9Y8f)
 * [Facebook](https://www.facebook.com/Education-4-all-EC-105482671578269)
 * [Telegram](https://t.me/education4allre)
 
 
-### Gestión del Proyecto
-
+### Gestión del proyecto
+---------
 En el desarrollo de Education4All los fundadores de este proyecto son los que mantendrán la pauta del manejo del mismo, donde si algún miembro de la comunidad desea implementar una funcionalidad nueva al proyecto esto deberá ser aprobado por los fundadores y en el caso de que no haya respuesta en el lapso de 8 días, se pondrá bajo votación entre los documentadores, diseñadores y desarrolladores si se acepta o no dicha funcionalidad, deberán estar presentes el 50% +1 para poder realizar la votación.
  En el caso que se trate de alguna mejora que va junto con el lineamiento del proyecto se lo puede realizar haciéndolo público en los foros de comunicación ya sea Discord o Telegram.
 Si se llegara a infringir alguno de los parámetros estipulados anteriormente, el miembro de la comunidad que haya cometido este error será notificado que debe deshacer lo realizado, y si este persiste en continuar con dicho tema, será automáticamente eliminado de la comunidad sin aviso previo.
 Si alguno de los fundadores del proyecto se retira del mismo, la o las personas que suplantaran sus puestos al mismo nivel de jerarquía serán los miembros de la comunidad que mas hayan aportado a la misma (se dará preferencia a documentadores). Se realizará una votación mediante el canal de comunicación Discord. 
 
 ### Roles
+---------
 * Administradores
 * Documentadores
 * Desarrolladores
 * Diseñadores
 
 ## Etiquetas
-
+---------
 * Bug
 * Desarrollo
 * Documentacion
@@ -41,13 +70,13 @@ Si alguno de los fundadores del proyecto se retira del mismo, la o las personas 
 * Pruebas
 
 ### Obtencion de recursos
-
+---------
 Para el foro de Education4All se obtendrá recursos de dos maneras diferentes, las cuáles son:
 * Donaciones. - Se recibirá donaciones por parte de las personas que hayan utilizado nuestro foro mediante Bitcoin en el wallet, se aceptará como mínimo de 10 dólares
 * Publicidad. - Ya que se trata de un foro, se puede agregar publicidad a la página por lo que se podrá hacer uso de este espacio para poder realizar publicidad por parte de las empresas o personas que lo deseen. El valor se acordará al momento de contactarse con los correos electrónicos de los fundadores del proyecto.
 
 ### Utilización de recursos
-
+---------
 Los recursos que se obtengan en el proyecto se repartirá de manera equitativa, entre los miembros que mas aporten en la comunidad, se dispondrá de la siguiente manera.
 * Los fundadores de Education4All obtendrán el 30% de las donaciones, siempre y cuando estos estén activos en la comunidad.
 * Los documentadores recibirán el 20% de las donaciones, dicho porcentaje se dividirá entre las personas que mas commits tengan en la comunidad.
@@ -55,38 +84,36 @@ Los recursos que se obtengan en el proyecto se repartirá de manera equitativa, 
 * Los diseñadores recibirán el 20% de las donaciones, dicho porcentaje se dividirá entre las personas que mas commits tengan en la comunidad.
 
 ### Estrategia de ramificación
-
+---------
 La estrategia de ramificación que se utilizará para este prouecto será Branch per feature, ya que esta estrategia se basa en una rama por funcionalidad, ya que una vez que se esté seguro de que una funcionalidad está funcionando correctamente esta será integrada a la rama de integración, dicha rama tiene la función de que la rama master nunca esté dañada o tenga fallos, ya que lo que se tiene en la rama master está listo para subor a producción.
 
 ![Branch per Feature](https://lh3.googleusercontent.com/-nSaPlB8Bfbc/VmP4jE-8yPI/AAAAAAAAB0w/ofLzyuYYHXc/s400-Ic42/pic2.jpg)
 
 ### Estrategia de versionamiento
-
+---------
 En el proyecto de Education4All se utilizará las versiones por npumero mediante 3 números X.Y.Z los cuales indicarán lo siguiente:
 * X es la versión mayor e indica la versión principal del software
 * Y es la versión menor e indica las nuevas funcionalidades
 * Z es la revisión e indica que se realizó una revisión del código por algún fallo
 
 ### Repositorio  
-
+---------
 * GitHUB 
 
-### Control de versiones 
-
-* GitKraken  
 
 ### Framework 
 
 * Angular  
 
-### Lenguaje: 
-
+### Lenguaje
+---------
 * Javascript  
 
 ### Base de Datos 
- 
+ ---------
 * MongoDB
 
+---------
 ### ¿Quieres conocer más sobre el proyecto?
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
