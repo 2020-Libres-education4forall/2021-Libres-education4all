@@ -29,6 +29,17 @@ Si alguno de los fundadores del proyecto se retira del mismo, la o las personas 
 * Desarrolladores
 * Diseñadores
 
+## Etiquetas
+
+* Bug
+* Desarrollo
+* Documentacion
+* Duplicado
+* Pripridad alta
+* Prioridad baja
+* Prioridad media
+* Pruebas
+
 ### Obtencion de recursos
 
 Para el foro de Education4All se obtendrá recursos de dos maneras diferentes, las cuáles son:
