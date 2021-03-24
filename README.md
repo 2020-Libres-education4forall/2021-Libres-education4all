@@ -51,6 +51,11 @@ La estrategia de ramificación que se utilizará para este prouecto será Branch
 
 ### Estrategia de versionamiento
 
+En el proyecto de Education4All se utilizará las versiones por npumero mediante 3 números X.Y.Z los cuales indicarán lo siguiente:
+* X es la versión mayor e indica la versión principal del software
+* Y es la versión menor e indica las nuevas funcionalidades
+* Z es la revisión e indica que se realizó una revisión del código por algún fallo
+
 ### Repositorio  
 
 * GitHUB 
@@ -58,10 +63,6 @@ La estrategia de ramificación que se utilizará para este prouecto será Branch
 ### Control de versiones 
 
 * GitKraken  
-
-
-
-
 
 ### Framework 
 
