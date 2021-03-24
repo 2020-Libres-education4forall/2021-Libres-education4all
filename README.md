@@ -1,25 +1,13 @@
 ## Education 4 all
 
-Tabla de Contenidos
-=======================
-
-* [Objetivos](#objetivos)
-* [Licencia](#licencia)
-* [Fundadores](#fundadores)
-* [Etiquetas](#etiquetas)
-* [Descripción del Proyecto](#descripción-del-proyecto)
-* [Roles](#roles)
-* [Gestión](#gestión)
-* [Toma de Desiciones](#toma-de-desiciones)
-* [Obtención de Recursos](#obtención-de-recursos)
-* [Utilización de Recursos](#utilización-de-recursos)
-* [Estrategia de Ramas](#estrategia-de-ramas)
-* [Estrategia de Versionamiento](#estrategia-de-versionamiento)
-* [Canales de Comunicación](#canales-de-comunicación)
-
 ### Objetivo
 
 * Crear un foro en donde los miembros de la comunidad estudiantil y profesional puedan encontrar o publicar clases y/o ayuda con ejercicios propuestos para su ayuda mutua en diversos campos del ámbito estudiantil.
+
+### Fundadores
+
+* Andaluz Esteban
+* Paredes Ricardo
 
 ### Comunicación
 
@@ -41,6 +29,27 @@ Si alguno de los fundadores del proyecto se retira del mismo, la o las personas 
 * Desarrolladores
 * Diseñadores
 
+### Obtencion de recursos
+
+Para el foro de Education4All se obtendrá recursos de dos maneras diferentes, las cuáles son:
+* Donaciones. - Se recibirá donaciones por parte de las personas que hayan utilizado nuestro foro mediante Bitcoin en el wallet, se aceptará como mínimo de 10 dólares
+* Publicidad. - Ya que se trata de un foro, se puede agregar publicidad a la página por lo que se podrá hacer uso de este espacio para poder realizar publicidad por parte de las empresas o personas que lo deseen. El valor se acordará al momento de contactarse con los correos electrónicos de los fundadores del proyecto.
+
+### Utilización de recursos
+
+Los recursos que se obtengan en el proyecto se repartirá de manera equitativa, entre los miembros que mas aporten en la comunidad, se dispondrá de la siguiente manera.
+* Los fundadores de Education4All obtendrán el 30% de las donaciones, siempre y cuando estos estén activos en la comunidad.
+* Los documentadores recibirán el 20% de las donaciones, dicho porcentaje se dividirá entre las personas que mas commits tengan en la comunidad.
+* Los desarrolladores recibirán el 30% de las donaciones, dicho porcentaje se dividirá entre las personas que mas commits tengan en la comunidad.
+* Los diseñadores recibirán el 20% de las donaciones, dicho porcentaje se dividirá entre las personas que mas commits tengan en la comunidad.
+
+### Estrategia de ramificación
+
+La estrategia de ramificación que se utilizará para este prouecto será Branch per feature, ya que esta estrategia se basa en una rama por funcionalidad, ya que una vez que se esté seguro de que una funcionalidad está funcionando correctamente esta será integrada a la rama de integración, dicha rama tiene la función de que la rama master nunca esté dañada o tenga fallos, ya que lo que se tiene en la rama master está listo para subor a producción.
+
+![Branch per Feature](https://lh3.googleusercontent.com/-nSaPlB8Bfbc/VmP4jE-8yPI/AAAAAAAAB0w/ofLzyuYYHXc/s400-Ic42/pic2.jpg)
+
+### Estrategia de versionamiento
 
 ### Repositorio  
 
@@ -50,7 +59,7 @@ Si alguno de los fundadores del proyecto se retira del mismo, la o las personas 
 
 * GitKraken  
 
-### 
+
 
 
 
