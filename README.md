@@ -18,17 +18,7 @@
 * [Lenguaje](#lenguaje)
 * [Base de datos](#base)
 
- 
-
-
-* [Descripción del proyecto](#gestionProyecto)
-
-
-* [Toma de Desiciones](#toma-de-desiciones)
-
-
-* 
-### Objetivo
+#### Objetivo
 ---------
 * Crear un foro en donde los miembros de la comunidad estudiantil y profesional puedan encontrar o publicar clases y/o ayuda con ejercicios propuestos para su ayuda mutua en diversos campos del ámbito estudiantil.
 
